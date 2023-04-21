@@ -43,7 +43,7 @@
 
 ## ✒️ Autores
 
- * Criado por Tiago Damasceno
+ * Criado e editado por Tiago Damasceno
   
 ## 📄 Licença
 
